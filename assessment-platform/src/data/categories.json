@@ -1,27 +1,20 @@
 [
-    {
-      "id": "general",
-      "label": "一般常識",
-      "description": "地理・歴史・社会など一般的な知識を問う問題",
-      "questionCount": 10
-    },
-    {
-      "id": "personality",
-      "label": "性格診断",
-      "description": "思考・行動傾向から性格を評価する問題",
-      "questionCount": 5
-    },
-    {
-      "id": "logic",
-      "label": "論理問題",
-      "description": "論理的思考力を測る推論・構造問題",
-      "questionCount": 8
-    },
-    {
-      "id": "math",
-      "label": "数学",
-      "description": "計算・数列・図形などの数学的知識を問う問題",
-      "questionCount": 15
-    }
-  ]
-  
+  {
+    "id": "general",
+    "label": "一般常識",
+    "description": "日常生活で必要な常識的な知識を問う問題",
+    "questionCount": 4
+  },
+  {
+    "id": "personality",
+    "label": "性格診断",
+    "description": "あなたの性格傾向を探る診断形式の問題",
+    "questionCount": 5
+  },
+  {
+    "id": "math",
+    "label": "数学",
+    "description": "計算・数列・図形などの数学的知識を問う問題",
+    "questionCount": 5
+  }
+]

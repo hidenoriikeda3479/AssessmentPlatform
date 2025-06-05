@@ -1,962 +1,182 @@
 [
-    {
-      "id": 1,
-      "category": "general",
-      "question": "一般常識のサンプル問題 1",
-      "options": [
-        "選択肢A1",
-        "選択肢B1",
-        "選択肢C1",
-        "選択肢D1"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": 2,
-      "category": "general",
-      "question": "一般常識のサンプル問題 2",
-      "options": [
-        "選択肢A2",
-        "選択肢B2",
-        "選択肢C2",
-        "選択肢D2"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 3,
-      "category": "general",
-      "question": "一般常識のサンプル問題 3",
-      "options": [
-        "選択肢A3",
-        "選択肢B3",
-        "選択肢C3",
-        "選択肢D3"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 4,
-      "category": "general",
-      "question": "一般常識のサンプル問題 4",
-      "options": [
-        "選択肢A4",
-        "選択肢B4",
-        "選択肢C4",
-        "選択肢D4"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 5,
-      "category": "general",
-      "question": "一般常識のサンプル問題 5",
-      "options": [
-        "選択肢A5",
-        "選択肢B5",
-        "選択肢C5",
-        "選択肢D5"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 6,
-      "category": "general",
-      "question": "一般常識のサンプル問題 6",
-      "options": [
-        "選択肢A6",
-        "選択肢B6",
-        "選択肢C6",
-        "選択肢D6"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 7,
-      "category": "general",
-      "question": "一般常識のサンプル問題 7",
-      "options": [
-        "選択肢A7",
-        "選択肢B7",
-        "選択肢C7",
-        "選択肢D7"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": 8,
-      "category": "general",
-      "question": "一般常識のサンプル問題 8",
-      "options": [
-        "選択肢A8",
-        "選択肢B8",
-        "選択肢C8",
-        "選択肢D8"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": 9,
-      "category": "general",
-      "question": "一般常識のサンプル問題 9",
-      "options": [
-        "選択肢A9",
-        "選択肢B9",
-        "選択肢C9",
-        "選択肢D9"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": 10,
-      "category": "general",
-      "question": "一般常識のサンプル問題 10",
-      "options": [
-        "選択肢A10",
-        "選択肢B10",
-        "選択肢C10",
-        "選択肢D10"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 11,
-      "category": "general",
-      "question": "一般常識のサンプル問題 11",
-      "options": [
-        "選択肢A11",
-        "選択肢B11",
-        "選択肢C11",
-        "選択肢D11"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 12,
-      "category": "general",
-      "question": "一般常識のサンプル問題 12",
-      "options": [
-        "選択肢A12",
-        "選択肢B12",
-        "選択肢C12",
-        "選択肢D12"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": 13,
-      "category": "general",
-      "question": "一般常識のサンプル問題 13",
-      "options": [
-        "選択肢A13",
-        "選択肢B13",
-        "選択肢C13",
-        "選択肢D13"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": 14,
-      "category": "general",
-      "question": "一般常識のサンプル問題 14",
-      "options": [
-        "選択肢A14",
-        "選択肢B14",
-        "選択肢C14",
-        "選択肢D14"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 15,
-      "category": "general",
-      "question": "一般常識のサンプル問題 15",
-      "options": [
-        "選択肢A15",
-        "選択肢B15",
-        "選択肢C15",
-        "選択肢D15"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 16,
-      "category": "general",
-      "question": "一般常識のサンプル問題 16",
-      "options": [
-        "選択肢A16",
-        "選択肢B16",
-        "選択肢C16",
-        "選択肢D16"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": 17,
-      "category": "general",
-      "question": "一般常識のサンプル問題 17",
-      "options": [
-        "選択肢A17",
-        "選択肢B17",
-        "選択肢C17",
-        "選択肢D17"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 18,
-      "category": "general",
-      "question": "一般常識のサンプル問題 18",
-      "options": [
-        "選択肢A18",
-        "選択肢B18",
-        "選択肢C18",
-        "選択肢D18"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 19,
-      "category": "general",
-      "question": "一般常識のサンプル問題 19",
-      "options": [
-        "選択肢A19",
-        "選択肢B19",
-        "選択肢C19",
-        "選択肢D19"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 20,
-      "category": "general",
-      "question": "一般常識のサンプル問題 20",
-      "options": [
-        "選択肢A20",
-        "選択肢B20",
-        "選択肢C20",
-        "選択肢D20"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 21,
-      "category": "personality",
-      "question": "性格診断のサンプル問題 1",
-      "options": [
-        "選択肢A1",
-        "選択肢B1",
-        "選択肢C1",
-        "選択肢D1"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 22,
-      "category": "personality",
-      "question": "性格診断のサンプル問題 2",
-      "options": [
-        "選択肢A2",
-        "選択肢B2",
-        "選択肢C2",
-        "選択肢D2"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": 23,
-      "category": "personality",
-      "question": "性格診断のサンプル問題 3",
-      "options": [
-        "選択肢A3",
-        "選択肢B3",
-        "選択肢C3",
-        "選択肢D3"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 24,
-      "category": "personality",
-      "question": "性格診断のサンプル問題 4",
-      "options": [
-        "選択肢A4",
-        "選択肢B4",
-        "選択肢C4",
-        "選択肢D4"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 25,
-      "category": "personality",
-      "question": "性格診断のサンプル問題 5",
-      "options": [
-        "選択肢A5",
-        "選択肢B5",
-        "選択肢C5",
-        "選択肢D5"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 26,
-      "category": "personality",
-      "question": "性格診断のサンプル問題 6",
-      "options": [
-        "選択肢A6",
-        "選択肢B6",
-        "選択肢C6",
-        "選択肢D6"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": 27,
-      "category": "personality",
-      "question": "性格診断のサンプル問題 7",
-      "options": [
-        "選択肢A7",
-        "選択肢B7",
-        "選択肢C7",
-        "選択肢D7"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 28,
-      "category": "personality",
-      "question": "性格診断のサンプル問題 8",
-      "options": [
-        "選択肢A8",
-        "選択肢B8",
-        "選択肢C8",
-        "選択肢D8"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 29,
-      "category": "personality",
-      "question": "性格診断のサンプル問題 9",
-      "options": [
-        "選択肢A9",
-        "選択肢B9",
-        "選択肢C9",
-        "選択肢D9"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 30,
-      "category": "personality",
-      "question": "性格診断のサンプル問題 10",
-      "options": [
-        "選択肢A10",
-        "選択肢B10",
-        "選択肢C10",
-        "選択肢D10"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 31,
-      "category": "personality",
-      "question": "性格診断のサンプル問題 11",
-      "options": [
-        "選択肢A11",
-        "選択肢B11",
-        "選択肢C11",
-        "選択肢D11"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": 32,
-      "category": "personality",
-      "question": "性格診断のサンプル問題 12",
-      "options": [
-        "選択肢A12",
-        "選択肢B12",
-        "選択肢C12",
-        "選択肢D12"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 33,
-      "category": "personality",
-      "question": "性格診断のサンプル問題 13",
-      "options": [
-        "選択肢A13",
-        "選択肢B13",
-        "選択肢C13",
-        "選択肢D13"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": 34,
-      "category": "personality",
-      "question": "性格診断のサンプル問題 14",
-      "options": [
-        "選択肢A14",
-        "選択肢B14",
-        "選択肢C14",
-        "選択肢D14"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 35,
-      "category": "personality",
-      "question": "性格診断のサンプル問題 15",
-      "options": [
-        "選択肢A15",
-        "選択肢B15",
-        "選択肢C15",
-        "選択肢D15"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 36,
-      "category": "personality",
-      "question": "性格診断のサンプル問題 16",
-      "options": [
-        "選択肢A16",
-        "選択肢B16",
-        "選択肢C16",
-        "選択肢D16"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 37,
-      "category": "personality",
-      "question": "性格診断のサンプル問題 17",
-      "options": [
-        "選択肢A17",
-        "選択肢B17",
-        "選択肢C17",
-        "選択肢D17"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 38,
-      "category": "personality",
-      "question": "性格診断のサンプル問題 18",
-      "options": [
-        "選択肢A18",
-        "選択肢B18",
-        "選択肢C18",
-        "選択肢D18"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 39,
-      "category": "personality",
-      "question": "性格診断のサンプル問題 19",
-      "options": [
-        "選択肢A19",
-        "選択肢B19",
-        "選択肢C19",
-        "選択肢D19"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 40,
-      "category": "personality",
-      "question": "性格診断のサンプル問題 20",
-      "options": [
-        "選択肢A20",
-        "選択肢B20",
-        "選択肢C20",
-        "選択肢D20"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 41,
-      "category": "logic",
-      "question": "論理問題のサンプル問題 1",
-      "options": [
-        "選択肢A1",
-        "選択肢B1",
-        "選択肢C1",
-        "選択肢D1"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 42,
-      "category": "logic",
-      "question": "論理問題のサンプル問題 2",
-      "options": [
-        "選択肢A2",
-        "選択肢B2",
-        "選択肢C2",
-        "選択肢D2"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 43,
-      "category": "logic",
-      "question": "論理問題のサンプル問題 3",
-      "options": [
-        "選択肢A3",
-        "選択肢B3",
-        "選択肢C3",
-        "選択肢D3"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": 44,
-      "category": "logic",
-      "question": "論理問題のサンプル問題 4",
-      "options": [
-        "選択肢A4",
-        "選択肢B4",
-        "選択肢C4",
-        "選択肢D4"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": 45,
-      "category": "logic",
-      "question": "論理問題のサンプル問題 5",
-      "options": [
-        "選択肢A5",
-        "選択肢B5",
-        "選択肢C5",
-        "選択肢D5"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 46,
-      "category": "logic",
-      "question": "論理問題のサンプル問題 6",
-      "options": [
-        "選択肢A6",
-        "選択肢B6",
-        "選択肢C6",
-        "選択肢D6"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": 47,
-      "category": "logic",
-      "question": "論理問題のサンプル問題 7",
-      "options": [
-        "選択肢A7",
-        "選択肢B7",
-        "選択肢C7",
-        "選択肢D7"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 48,
-      "category": "logic",
-      "question": "論理問題のサンプル問題 8",
-      "options": [
-        "選択肢A8",
-        "選択肢B8",
-        "選択肢C8",
-        "選択肢D8"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 49,
-      "category": "logic",
-      "question": "論理問題のサンプル問題 9",
-      "options": [
-        "選択肢A9",
-        "選択肢B9",
-        "選択肢C9",
-        "選択肢D9"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 50,
-      "category": "logic",
-      "question": "論理問題のサンプル問題 10",
-      "options": [
-        "選択肢A10",
-        "選択肢B10",
-        "選択肢C10",
-        "選択肢D10"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 51,
-      "category": "logic",
-      "question": "論理問題のサンプル問題 11",
-      "options": [
-        "選択肢A11",
-        "選択肢B11",
-        "選択肢C11",
-        "選択肢D11"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": 52,
-      "category": "logic",
-      "question": "論理問題のサンプル問題 12",
-      "options": [
-        "選択肢A12",
-        "選択肢B12",
-        "選択肢C12",
-        "選択肢D12"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 53,
-      "category": "logic",
-      "question": "論理問題のサンプル問題 13",
-      "options": [
-        "選択肢A13",
-        "選択肢B13",
-        "選択肢C13",
-        "選択肢D13"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 54,
-      "category": "logic",
-      "question": "論理問題のサンプル問題 14",
-      "options": [
-        "選択肢A14",
-        "選択肢B14",
-        "選択肢C14",
-        "選択肢D14"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 55,
-      "category": "logic",
-      "question": "論理問題のサンプル問題 15",
-      "options": [
-        "選択肢A15",
-        "選択肢B15",
-        "選択肢C15",
-        "選択肢D15"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 56,
-      "category": "logic",
-      "question": "論理問題のサンプル問題 16",
-      "options": [
-        "選択肢A16",
-        "選択肢B16",
-        "選択肢C16",
-        "選択肢D16"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 57,
-      "category": "logic",
-      "question": "論理問題のサンプル問題 17",
-      "options": [
-        "選択肢A17",
-        "選択肢B17",
-        "選択肢C17",
-        "選択肢D17"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 58,
-      "category": "logic",
-      "question": "論理問題のサンプル問題 18",
-      "options": [
-        "選択肢A18",
-        "選択肢B18",
-        "選択肢C18",
-        "選択肢D18"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": 59,
-      "category": "logic",
-      "question": "論理問題のサンプル問題 19",
-      "options": [
-        "選択肢A19",
-        "選択肢B19",
-        "選択肢C19",
-        "選択肢D19"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 60,
-      "category": "logic",
-      "question": "論理問題のサンプル問題 20",
-      "options": [
-        "選択肢A20",
-        "選択肢B20",
-        "選択肢C20",
-        "選択肢D20"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 61,
-      "category": "math",
-      "question": "数学のサンプル問題 1",
-      "options": [
-        "選択肢A1",
-        "選択肢B1",
-        "選択肢C1",
-        "選択肢D1"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 62,
-      "category": "math",
-      "question": "数学のサンプル問題 2",
-      "options": [
-        "選択肢A2",
-        "選択肢B2",
-        "選択肢C2",
-        "選択肢D2"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 63,
-      "category": "math",
-      "question": "数学のサンプル問題 3",
-      "options": [
-        "選択肢A3",
-        "選択肢B3",
-        "選択肢C3",
-        "選択肢D3"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 64,
-      "category": "math",
-      "question": "数学のサンプル問題 4",
-      "options": [
-        "選択肢A4",
-        "選択肢B4",
-        "選択肢C4",
-        "選択肢D4"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": 65,
-      "category": "math",
-      "question": "数学のサンプル問題 5",
-      "options": [
-        "選択肢A5",
-        "選択肢B5",
-        "選択肢C5",
-        "選択肢D5"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": 66,
-      "category": "math",
-      "question": "数学のサンプル問題 6",
-      "options": [
-        "選択肢A6",
-        "選択肢B6",
-        "選択肢C6",
-        "選択肢D6"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 67,
-      "category": "math",
-      "question": "数学のサンプル問題 7",
-      "options": [
-        "選択肢A7",
-        "選択肢B7",
-        "選択肢C7",
-        "選択肢D7"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 68,
-      "category": "math",
-      "question": "数学のサンプル問題 8",
-      "options": [
-        "選択肢A8",
-        "選択肢B8",
-        "選択肢C8",
-        "選択肢D8"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": 69,
-      "category": "math",
-      "question": "数学のサンプル問題 9",
-      "options": [
-        "選択肢A9",
-        "選択肢B9",
-        "選択肢C9",
-        "選択肢D9"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 70,
-      "category": "math",
-      "question": "数学のサンプル問題 10",
-      "options": [
-        "選択肢A10",
-        "選択肢B10",
-        "選択肢C10",
-        "選択肢D10"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 71,
-      "category": "math",
-      "question": "数学のサンプル問題 11",
-      "options": [
-        "選択肢A11",
-        "選択肢B11",
-        "選択肢C11",
-        "選択肢D11"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 72,
-      "category": "math",
-      "question": "数学のサンプル問題 12",
-      "options": [
-        "選択肢A12",
-        "選択肢B12",
-        "選択肢C12",
-        "選択肢D12"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 73,
-      "category": "math",
-      "question": "数学のサンプル問題 13",
-      "options": [
-        "選択肢A13",
-        "選択肢B13",
-        "選択肢C13",
-        "選択肢D13"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": 74,
-      "category": "math",
-      "question": "数学のサンプル問題 14",
-      "options": [
-        "選択肢A14",
-        "選択肢B14",
-        "選択肢C14",
-        "選択肢D14"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 75,
-      "category": "math",
-      "question": "数学のサンプル問題 15",
-      "options": [
-        "選択肢A15",
-        "選択肢B15",
-        "選択肢C15",
-        "選択肢D15"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 76,
-      "category": "math",
-      "question": "数学のサンプル問題 16",
-      "options": [
-        "選択肢A16",
-        "選択肢B16",
-        "選択肢C16",
-        "選択肢D16"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 77,
-      "category": "math",
-      "question": "数学のサンプル問題 17",
-      "options": [
-        "選択肢A17",
-        "選択肢B17",
-        "選択肢C17",
-        "選択肢D17"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": 78,
-      "category": "math",
-      "question": "数学のサンプル問題 18",
-      "options": [
-        "選択肢A18",
-        "選択肢B18",
-        "選択肢C18",
-        "選択肢D18"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 79,
-      "category": "math",
-      "question": "数学のサンプル問題 19",
-      "options": [
-        "選択肢A19",
-        "選択肢B19",
-        "選択肢C19",
-        "選択肢D19"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": 80,
-      "category": "math",
-      "question": "数学のサンプル問題 20",
-      "options": [
-        "選択肢A20",
-        "選択肢B20",
-        "選択肢C20",
-        "選択肢D20"
-      ],
-      "correctAnswer": 3
-    }
-  ]
+  {
+    "id": 1,
+    "category": "general",
+    "question": "日本の首都はどこですか？",
+    "options": [
+      "大阪",
+      "東京",
+      "京都",
+      "名古屋"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 2,
+    "category": "general",
+    "question": "世界で最も人口の多い国はどこですか？",
+    "options": [
+      "インド",
+      "中国",
+      "アメリカ",
+      "インドネシア"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 3,
+    "category": "general",
+    "question": "電車内でのマナーとして正しいのは？",
+    "options": [
+      "大声で電話する",
+      "優先席に座る",
+      "ヘッドホンから音漏れさせる",
+      "イヤホンをして静かにする"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 4,
+    "category": "general",
+    "question": "国民の祝日はどれですか？",
+    "options": [
+      "日曜日",
+      "文化の日",
+      "お盆",
+      "彼岸"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 5,
+    "category": "general",
+    "question": "日本の紙幣に描かれている人物で正しいのは？",
+    "options": [
+      "福沢諭吉",
+      "織田信長",
+      "西郷隆盛",
+      "徳川家康"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "category": "personality",
+    "question": "初対面の人と話すのは得意ですか？",
+    "options": [
+      "はい",
+      "いいえ",
+      "時と場合による",
+      "わからない"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 7,
+    "category": "personality",
+    "question": "計画を立てて行動するのが好きですか？",
+    "options": [
+      "はい",
+      "いいえ",
+      "状況による",
+      "考えたことがない"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 8,
+    "category": "personality",
+    "question": "物事を始める前に細かく調べるタイプですか？",
+    "options": [
+      "はい",
+      "いいえ",
+      "少しだけ",
+      "そのときによる"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 9,
+    "category": "personality",
+    "question": "周囲に気を配ることが多いですか？",
+    "options": [
+      "いつも",
+      "たまに",
+      "あまりしない",
+      "まったくしない"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 10,
+    "category": "personality",
+    "question": "感情を表に出す方ですか？",
+    "options": [
+      "はい",
+      "いいえ",
+      "人による",
+      "わからない"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 11,
+    "category": "math",
+    "question": "5×6は？",
+    "options": [
+      "11",
+      "30",
+      "36",
+      "25"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 12,
+    "category": "math",
+    "question": "次のうち素数はどれですか？",
+    "options": [
+      "4",
+      "9",
+      "7",
+      "6"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 13,
+    "category": "math",
+    "question": "直角三角形に関する定理は？",
+    "options": [
+      "ピタゴラスの定理",
+      "ニュートンの運動法則",
+      "オームの法則",
+      "ケプラーの法則"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 14,
+    "category": "math",
+    "question": "1から10までの合計は？",
+    "options": [
+      "55",
+      "45",
+      "50",
+      "60"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 15,
+    "category": "math",
+    "question": "π（パイ）の近似値は？",
+    "options": [
+      "2.14",
+      "3.14",
+      "3.41",
+      "2.71"
+    ],
+    "correctAnswer": 1
+  }
+]
