@@ -1,10 +1,11 @@
-import { StrictMode } from 'react'
-import { createRoot } from 'react-dom/client'
-import './index.css'
-import App from './App.tsx'
+// エントリーポイント。Reduxとルーティングをバインド
+import ReactDOM from 'react-dom/client'
+import AppRouter from './routes/AppRouter'
+import { Provider } from 'react-redux'
+import { store } from './app/store'
 
-createRoot(document.getElementById('root')!).render(
-  <StrictMode>
-    <App />
-  </StrictMode>,
+ReactDOM.createRoot(document.getElementById('root')!).render(
+  <Provider store={store}>
+    <AppRouter />
+  </Provider>
 )
