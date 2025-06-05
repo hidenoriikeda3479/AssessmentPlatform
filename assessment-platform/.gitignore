@@ -1,0 +1,30 @@
+# node_modules（依存ライブラリ）
+node_modules/
+
+# ビルド出力（Vite）
+dist/
+
+# ログファイル
+*.log
+
+# 環境設定
+.env
+.env.local
+
+# エディタ別ファイル
+.vscode/
+.idea/
+
+# OSごとのゴミファイル
+.DS_Store
+Thumbs.db
+
+# npm一時ファイル
+package-lock.json
+
+# MacのFinder設定ファイル
+*.swp
+
+# テスト出力や一時ファイル
+coverage/
+*.tsbuildinfo
