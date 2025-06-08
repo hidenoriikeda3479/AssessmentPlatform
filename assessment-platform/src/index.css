@@ -1,11 +1,12 @@
+/* グローバルスタイルの基本設定 */
 :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
 
-  color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
+  color-scheme: light dark; /* ダークモード対応 */
+  color: rgba(255, 255, 255, 0.87); /* テキスト色（ダーク基準） */
+  background-color: #242424; /* 背景色（ダーク） */
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -13,15 +14,19 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+/* リンクの基本スタイル */
 a {
   font-weight: 500;
   color: #646cff;
   text-decoration: inherit;
 }
+
+/* リンクホバー時の色変更 */
 a:hover {
   color: #535bf2;
 }
 
+/* body全体のレイアウト初期化と中央寄せ */
 body {
   margin: 0;
   display: flex;
@@ -30,11 +35,13 @@ body {
   min-height: 100vh;
 }
 
+/* h1の見出しスタイル */
 h1 {
   font-size: 3.2em;
   line-height: 1.1;
 }
 
+/* ボタンの共通スタイル */
 button {
   border-radius: 8px;
   border: 1px solid transparent;
@@ -46,22 +53,29 @@ button {
   cursor: pointer;
   transition: border-color 0.25s;
 }
+
+/* ボタンホバー時のボーダー色変更 */
 button:hover {
   border-color: #646cff;
 }
+
+/* ボタンフォーカス時のアクセシビリティ対応 */
 button:focus,
 button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
 
+/* ライトモード時のスタイル上書き */
 @media (prefers-color-scheme: light) {
   :root {
     color: #213547;
     background-color: #ffffff;
   }
+
   a:hover {
     color: #747bff;
   }
+
   button {
     background-color: #f9f9f9;
   }

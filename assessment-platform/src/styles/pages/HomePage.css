@@ -1,0 +1,43 @@
+/* タイトルの装飾（上品なフォント＆色） */
+.elegant-title {
+  font-family: 'Segoe UI', 'Noto Sans JP', sans-serif;
+  font-weight: 600;
+  font-size: 2rem;
+  color: #343a40;
+}
+
+/* カテゴリカード全体のスタイル */
+.category-card {
+  border: none;
+  border-radius: 12px;
+  background: #ffffff;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.08);
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+/* ホバー時の浮き上がり演出 */
+.category-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 12px 24px rgba(0, 123, 255, 0.25);
+}
+
+/* カードタイトルの色と余白 */
+.category-card .card-title {
+  color: #007bff;
+  margin-bottom: 0.5rem;
+}
+
+/* カード説明文のスタイル */
+.category-card .card-text {
+  color: #555;
+  font-size: 0.95rem;
+}
+
+/* 質問数の表示スタイル（控えめ・イタリック） */
+.category-card .question-count {
+  margin-top: 1rem;
+  color: #6c757d;
+  font-size: 0.85rem;
+  font-style: italic;
+}
